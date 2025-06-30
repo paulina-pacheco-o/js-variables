@@ -10,7 +10,7 @@ const numOnePlusNumTwo = 8 + 16;
 console.log(numOnePlusNumTwo); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
-const numThreeTimesNumTwo = NaN;
+const numThreeTimesNumTwo = 32 * 16;
 console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
