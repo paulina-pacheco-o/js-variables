@@ -9,6 +9,13 @@ console.log(name)
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+let number = "28"
+let text = "Hello"
+let booleano = "true"
+
+let allTogether = number + "" + text + "" + booleano
+console.log(allTogether)
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
